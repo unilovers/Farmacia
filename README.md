@@ -4,3 +4,4 @@ Simplifique a rotina da sua farmácia com um sistema que integra estoque, vendas
 Thiago Leopoldo Zambrin Filho
 Mateus Bertani Dias
 Marcelo Adriano Doná FIlho 
+JoãoPedro Gonçalves Ferreira
