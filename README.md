@@ -7,4 +7,4 @@ Marcelo Adriano Doná FIlho
 João Pedro Gonçalves Ferreira
 Kauan Idalgo Lopes
 Matheus Henrique Cardoso Lander Passos
-Pedro Henrique dos Santos Vengrus
+Pedro Henrique dos Santos Vengrus 
